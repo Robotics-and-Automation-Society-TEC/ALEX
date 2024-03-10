@@ -1,4 +1,7 @@
 # Bienvenidos al proyecto ALEX
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 El proyecto ALEX es un robot humanoide que sirve como plataforma demostrativa y didáctica, actualmente desarrollado por el grupo de Robotics and Automation Society del Tecnológico de Costa Rica
 
 # Estructura
@@ -20,6 +23,20 @@ Contiene las **versiones finales.** de los archivos.
 ## Contributors 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SantaCRC"><img src="https://avatars.githubusercontent.com/u/35088759?v=4?s=100" width="100px;" alt="Fabian Alvarez"/><br /><sub><b>Fabian Alvarez</b></sub></a><br /><a href="#projectManagement-SantaCRC" title="Project Management">📆</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
