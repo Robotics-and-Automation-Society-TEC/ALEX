@@ -17,6 +17,15 @@ Es la rama donde se encuentra los archivos que ya han sido validados y son funci
 ## Ramas de lanzamiento (release)
 Contiene las **versiones finales.** de los archivos.
 
-# Contribuidores
+## Contributors 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 TO-DO
