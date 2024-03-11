@@ -29,11 +29,11 @@ concurrency:
 
 jobs:
   # Build job
- build:
-  runs-on: ubuntu-latest
-  defaults:
-    run:
-      working-directory: docs
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: docs
     steps:
       - name: Checkout
         uses: actions/checkout@v3
