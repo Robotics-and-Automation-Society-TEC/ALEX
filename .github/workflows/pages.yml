@@ -3,7 +3,7 @@ name: Deploy Jekyll site to Pages ALEX
 on:
   push:
     branches:
-      - "docs"
+      - "main"
     paths:
       - "docs/**"
 # Allows you to run this workflow manually from the Actions tab
