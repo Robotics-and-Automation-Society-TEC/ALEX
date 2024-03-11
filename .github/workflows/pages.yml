@@ -1,14 +1,9 @@
-# This workflow deploys a Jekyll site to GitHub Pages
-
 name: Deploy Jekyll site to Pages
 
 on:
   push:
     branches:
       - docs
-
-  # Allows manual execution of the workflow
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -31,7 +26,7 @@ jobs:
         with:
           ruby-version: '3.1'
 
-      - name: Build with Jekyll
+      - name: Install Dependencies and Build with Jekyll
         run: |
           bundle install
           bundle exec jekyll build --baseurl ""
@@ -48,4 +43,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          publish_dir: ./docs/_site
